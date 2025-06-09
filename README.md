@@ -40,7 +40,8 @@ The project includes an **interactive dashboard** with the following components:
   - **Total Cost**, **Total Transactions**, **Average Costs**, and **Average Orders** for quick summary insights.
 
 ## 📷 Dashboard Screenshot
-![Coffee Shop Sales Dashboard](https://github.com/user-attachments/assets/b887edc6-ce9c-42af-b684-93a5aad41108)
+![Coffee Shop Sales Dashboard](https://github.com/user-attachments/assets/b185ac57-4fef-4037-aa0b-3828fc1e7c23)
+
 
 ## 🔎 How to Use the Project
 1. Download then open the `Coffee Shop Sales (Data Analysis).xlsx` file in Excel.
