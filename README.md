@@ -61,7 +61,7 @@ The project includes an **interactive dashboard** with the following components:
 This analysis provides valuable business insights, enabling data-driven decisions to enhance performance, boost revenue, and improve customer engagement.
 
 ## 📬 Contact
-For any questions or collaboration, feel free to reach out:
+For any questions or collaboration, feel free to reach out:  
 📧 Email: [sudiprai969@gmail.com](mailto:sudiprai969@gmail.com)  
 🔗 LinkedIn: [Sudeep Rai](https://www.linkedin.com/in/sudeep-rai/)
 
