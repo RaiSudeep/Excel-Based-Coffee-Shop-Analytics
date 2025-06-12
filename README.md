@@ -1,6 +1,6 @@
 ![Coffee Shop Sales Analysis](https://github.com/user-attachments/assets/4a293db1-8266-46ff-9fdf-3129fd2a562d)
 
-# Excel-Based-Coffee-Shop-Analytics
+# Excel Based Coffee Shop Sales Analysis
 This Excel-based project analyses coffee shop sales data to uncover trends, peak hours, and best-selling products using interactive dashboards and KPIs. It helps businesses make data-driven decisions to optimise revenue and customer engagement.
 
 ## 📌 Project Overview
